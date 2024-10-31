@@ -51,6 +51,27 @@
     font-weight: bold; /* Optional: make it bold for emphasis */
 }
 
+/* Contact Section Styles */
+#contact .text-center {
+    margin-bottom: 1rem;
+}
+
+#contact .form-control {
+    border-radius: 0.5rem; /* Rounded input fields */
+}
+
+#contact .btn-primary {
+    border-radius: 0.5rem; /* Rounded button */
+}
+
+.contact-icon {
+    font-size: 1rem; /* Adjust the size as needed */
+}
+
+footer a:hover {
+    color: #007bff; /* Change to your preferred hover color */
+}
+
 /* Responsive Styles */
 @media (max-width: 768px) {
     .floating-navbar {
